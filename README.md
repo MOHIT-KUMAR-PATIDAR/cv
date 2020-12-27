@@ -1,4 +1,4 @@
-<!DOCTYPE HTML >
+
 <html>
 <head>
 
@@ -28,8 +28,7 @@
   <li><strong><a href="https://www.youtube.com/watch?v=ZD6jw2FvWaE">Reading Novels To Improve My English  </a></strong></li>
   <li><strong><a href="https://www.youtube.com/watch?v=RWbX958xwCA"> I Always instill confidence in other </a></strong></li>
 
-  </body>
-   </html>
+  
 
    <h3>Work Experiance </h3>
    <table>
