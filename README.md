@@ -12,7 +12,7 @@
   <td> <h4> MOHIT PATIDAR </h4>
   <p><em> Founder And CTO of <strong><a href= "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiWwK_7_-rtAhWCrpYKHWPLDV4YABAAGgJ0bA&ae=2&ohost=www.google.com&cid=CAASE-Ro7sy1Jt_nz32j63ORTHbHP9s&sig=AOD64_2pGKl5WoTvry7f_w0YuizbpbDBzA&q&adurl&ved=2ahUKEwjf9Kf7_-rtAhUMzjgGHZg1BtQQ0Qx6BAgMEAE"> The App Brewerry </a></strong>.</em></p>
 
-  <p> I am an ios developer . I love cofee and Pizza</p> </td>
+  <p> I am an Web developer . I love cofee and Pizza</p> </td>
 </tr>
 </table>
 
@@ -25,8 +25,8 @@
 <hr>
 <h3> My Hobbies </h3>
 <ol>
-  <li><strong><a href="https://www.youtube.com/watch?v=AVV3UJCFnA4"> Beer Brewings </a></strong></li>
-  <li><strong><a href="https://www.youtube.com/watch?v=zn6lwPJoSUU"> Martial Arts </a></strong></li>
+  <li><strong><a href="https://www.youtube.com/watch?v=ZD6jw2FvWaE">Reading Novels To Improve My English  </a></strong></li>
+  <li><strong><a href="https://www.youtube.com/watch?v=RWbX958xwCA"> I Always instill confidence in other </a></strong></li>
 
   </body>
    </html>
