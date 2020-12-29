@@ -3,7 +3,20 @@
 <head>
 
 <meta charset ="utf-8">
-<title > MOHIT Personal Site </title>
+<title > MOHIT Personal Site </title><style>
+body {
+  background-color: #EAF6F6;
+}
+hr {
+border-style: none;
+border-top-style: dotted;
+border-color:grey; 
+border-width:5px;
+width:5%;
+}
+</style>
+
+
  </head>
   <body>
     <table cellspaccing="10">
