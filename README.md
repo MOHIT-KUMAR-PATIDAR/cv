@@ -6,7 +6,7 @@
 <title > MOHIT Personal Site </title>
 <style>
 body {
-  background-color: blue;
+  background-color: #EAF6F6;
 }
 hr {
 border-style: none;
