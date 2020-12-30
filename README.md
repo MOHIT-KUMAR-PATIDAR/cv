@@ -5,8 +5,10 @@
 <meta charset ="utf-8">
 <title > MOHIT Personal Site </title>
 <style>
-body {
-h1{
+body 
+  {  background-color: #EAF6F6;
+}
+  h1{
   color:#66BFBF;
 }
 h3{
