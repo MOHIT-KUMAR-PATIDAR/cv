@@ -4,8 +4,22 @@
 
 <meta charset ="utf-8">
 <title > MOHIT Personal Site </title>
-<link rel="stylesheet" href="css/style.css">
-
+<style>
+body {
+h1{
+  color:#66BFBF;
+}
+h3{
+  color: #66BFBF
+}
+hr {
+border-style: none;
+border-top-style: dotted;
+border-color:grey;
+border-width:5px;
+width:5%;
+}
+</stlye>
 </head>
   <body>
     <table cellspaccing="10">
