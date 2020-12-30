@@ -19,7 +19,7 @@ border-color:grey;
 border-width:5px;
 width:5%;
 }
-</stlye>
+</style>
 </head>
   <body>
     <table cellspaccing="10">
